@@ -43,6 +43,8 @@ Likitalo puhuu Pirttimaan kanssa
 Lapsuusmuisto
 Henrikiltä kysytään nimikirjoitusta
 Kravatti/rusetti riisutaan
+Joku vilkuttaa sinulle toisesta pöydästä
+Sinulle tarjotaan lasi vettä
 🧩 Skoolaa Elsin serkun kanssa  
 🧩 Onnittele morsiamen veljeä
 🧩 Onnittele sulhasen sisarusta
@@ -53,9 +55,7 @@ Kravatti/rusetti riisutaan
 🧩 Käy kirjoittamassa vieraskirjaan
 🧩 Puhu jonkun kanssa, jolla on kukkamekko
 🧩 Vilkuta jollekin toisessa pöydässä
-🧩 Joku vilkuttaa sinulle toisesta pöydästä
 🧩 Tarjoa lasi vettä
-🧩 Sinulle tarjotaan lasi vettä
 🧩 Ehdota maljaa pöytäseurueelle
 🧩 Kerro vitsi
 🧩 Kehu kaasoa
@@ -67,5 +67,3 @@ Kravatti/rusetti riisutaan
 🧩 Tanssi jonkun kanssa
 🧩 Juttele tuoreen avioparin entisen kämppiksen kanssa 
 🧩 Olet kenguru. Etsi toinen kenguru!
-
-
