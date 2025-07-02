@@ -41,6 +41,8 @@ Likitalo talks to Pirttimaa
 Childhood memory
 Henrik is asked for an autograph
 A tie or bowtie is taken off
+You’re offered a glass of water
+Someone waves to you from another table
 🧩 Toast with Elsi’s cousin
 🧩 Congratulate the bride’s brother
 🧩 Congratulate the groom’s sibling
@@ -51,9 +53,7 @@ A tie or bowtie is taken off
 🧩 Write in the guestbook
 🧩 Talk to someone wearing a floral dress
 🧩 Wave to someone at another table
-🧩 Someone waves to you from another table
 🧩 Offer someone a glass of water
-🧩 You’re offered a glass of water
 🧩 Propose a toast to your table group
 🧩 Tell a joke
 🧩 Compliment the bridesmaid

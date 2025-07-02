@@ -94,10 +94,11 @@ with open(Path(args.template), 'r') as f:
 
 for i in range(args.num_sheets):
     shuffle(observations)
+    shuffle(dares)
     text_rows = observations[:25]
-    num_dares = random.randint(min(len(dares), args.minimum_dares), min(len(dares), args.maximum_dares))
-    for (r, idx) in enumerate(random.sample(range(25), num_dares)):
-        logger.debug(f'replaced {text_rows[idx]} with {dares[r]}')
+    num_dares = random.randint(args.minimum_dares, args.maximum_dares)
+    for (r, idx) in enumerate(random.sample(range(25), min(len(dares), num_dares))):
+        logger.debug(f'replaced `{text_rows[idx]}` with `{dares[r]}`')
         text_rows[idx] = dares[r]
     
     content = (f'[{s}]' for s in text_rows)
