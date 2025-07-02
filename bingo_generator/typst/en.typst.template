@@ -1,0 +1,21 @@
+#set page(
+  paper: "a4",
+)
+
+#set text(
+  size: 12pt,
+)
+
+#v(1.5cm)
+
+#align(center)[
+  #text(48pt, [BINGO!])
+]
+
+#align(center)[
+Collect five in a row diagonally, horizontally or diagonally and shout _BINGO!_
+
+Attention! Some of the boxes require an observation, some completing a task.
+]
+
+#v(25pt)

@@ -1,0 +1,54 @@
+#set page(
+  paper: "a4",
+)
+
+#set text(
+  size: 12pt,
+)
+
+#v(1.5cm)
+
+#align(center)[
+  #text(48pt, [BINGO!])
+]
+
+#align(center)[
+Collect five in a row diagonally, horizontally or diagonally and shout _BINGO!_
+
+Attention! Some of the boxes require an observation, some completing a task.
+]
+
+#v(25pt)
+
+
+#table(
+columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+rows: (3.15cm, 3.15cm, 3.15cm, 3.15cm, 3.15cm),
+inset: 10pt,
+align: horizon,
+[Guitar solo],
+[🧩 Tell a joke],
+[Someone takes off their suit jacket],
+[🧩 Sit in someone else’s seat],
+[🧩 You are a koala. Find another koala!],
+[Malmö is mentioned],
+[Bride or groom is missing],
+[Likitalo talks to Pirttimaa],
+[The bridal couple kisses],
+[Someone is being searched for],
+[🧩 Talk to the newlywed couple’s former roommate],
+[Outfit adjustment],
+[A musician gets excited],
+[Childhood memory],
+[A child is running],
+[🧩 Complete a trivia round (tipsrunda)],
+[🧩 Congratulate the bride’s brother],
+[🧩 Talk to someone new],
+[A parent of the couple gets emotional],
+[🧩 You’re offered a glass of water],
+[🧩 Someone waves to you from another table],
+[A tie or bowtie is taken off],
+[Bridesmaid laughs],
+[Henrik is asked for an autograph],
+[You laugh]
+)

@@ -1,0 +1,54 @@
+#set page(
+  paper: "a4",
+)
+
+#set text(
+  size: 12pt,
+)
+
+#v(1.5cm)
+
+#align(center)[
+  #text(48pt, [BINGO!])
+]
+
+#align(center)[
+Collect five in a row diagonally, horizontally or diagonally and shout _BINGO!_
+
+Attention! Some of the boxes require an observation, some completing a task.
+]
+
+#v(25pt)
+
+
+#table(
+columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+rows: (3.15cm, 3.15cm, 3.15cm, 3.15cm, 3.15cm),
+inset: 10pt,
+align: horizon,
+[🧩 Propose a toast to your table group],
+[🧩 Find a guest who speaks French],
+[Malmö is mentioned],
+[The bridal couple kisses],
+[Henrik is asked for an autograph],
+[Marriage advice],
+[🧩 Sit in someone else’s seat],
+[🧩 Dance with someone],
+[Technical difficulties],
+[Outfit adjustment],
+[A prayer],
+[🧩 Find a guest who speaks Swedish],
+[A poem is read],
+[🧩 Toast with Elsi’s cousin],
+[The bride is asked to dance],
+[Someone mentions the chilly summer],
+[🧩 Complete a trivia round (tipsrunda)],
+[The groom uses the term “wife”],
+[🧩 You’re offered a glass of water],
+[Bridesmaid laughs],
+[🧩 Offer someone a glass of water],
+[🧩 Talk to someone new],
+[Sibelius is mentioned],
+[A tie or bowtie is taken off],
+[Someone takes off their suit jacket]
+)

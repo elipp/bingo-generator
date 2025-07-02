@@ -1,0 +1,17 @@
+fi:
+    python create_bingo_sheets_typst.py -t fi.typst.template -b elsioskari.fi.txt -o fi -n 69
+
+kenguru:
+    python create_bingo_sheets_typst.py -t fi.typst.template -b kenguru.txt -o fi -n 23
+
+koala:
+    python create_bingo_sheets_typst.py -t fi.typst.template -b koala.txt -o fi -n 23
+
+vesinokka:
+    python create_bingo_sheets_typst.py -t fi.typst.template -b vesinokka.txt -o fi -n 23
+
+en:
+    rm -rf en/ && python create_bingo_sheets_typst.py -t en.typst.template -b elsioskari.en.txt -o en -n 10
+
+pdf:
+    for file in $(find . -type f -name "*.typst"); do typst c $file; done

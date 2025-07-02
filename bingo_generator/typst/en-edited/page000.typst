@@ -1,0 +1,54 @@
+#set page(
+  paper: "a4",
+)
+
+#set text(
+  size: 12pt,
+)
+
+#v(1.5cm)
+
+#align(center)[
+  #text(48pt, [BINGO!])
+]
+
+#align(center)[
+Collect five in a row diagonally, horizontally or diagonally and shout _BINGO!_
+
+Attention! Some of the boxes require an observation, some completing a task.
+]
+
+#v(25pt)
+
+
+#table(
+columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+rows: (3.15cm, 3.15cm, 3.15cm, 3.15cm, 3.15cm),
+inset: 10pt,
+align: horizon,
+[Someone compliments the food],
+[🧩 You are a platypus. Find another platypus!],
+[🧩 Wave to someone at another table],
+[Someone mentions the chilly summer],
+[The priest dances],
+[The bride is asked to dance],
+[Someone messes up in the line dance],
+[Sibelius is mentioned],
+[Musical performance],
+[Someone cheats at bingo],
+[You hear a musical term you don't understand],
+[A drink is spilled],
+[🧩 Find the oldest guest],
+[🧩 Dance with someone],
+[A poem is read],
+[The bride gets emotional],
+[🧩 Compliment the bridesmaid],
+[Henrik is asked for an autograph],
+[Strong Aussie accent],
+[🧩 Talk to someone wearing a floral dress],
+[The bridal couple kisses],
+[You laugh],
+[Someone speaks Swedish],
+[Surprise speech],
+[🧩 Find a guest who speaks Swedish]
+)

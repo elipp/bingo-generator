@@ -1,0 +1,54 @@
+#set page(
+  paper: "a4",
+)
+
+#set text(
+  size: 12pt,
+)
+
+#v(1.5cm)
+
+#align(center)[
+  #text(48pt, [BINGO!])
+]
+
+#align(center)[
+Collect five in a row diagonally, horizontally or diagonally and shout _BINGO!_
+
+Attention! Some of the boxes require an observation, some completing a task.
+]
+
+#v(25pt)
+
+
+#table(
+columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+rows: (3.15cm, 3.15cm, 3.15cm, 3.15cm, 3.15cm),
+inset: 10pt,
+align: horizon,
+[The bridal couple kisses],
+[🧩 Find the oldest guest],
+[🧩 Talk to the newlywed couple’s former roommate],
+[You laugh],
+[The groom uses the term “wife”],
+[🧩 Congratulate the groom’s sibling],
+[Someone is being searched for],
+[The bride is asked to dance],
+[You cry],
+[Someone asks how you know the bridal couple],
+[Someone reminisces about their own wedding],
+[A drink is spilled],
+[🧩 Dance with someone],
+[Bride or groom is missing],
+[🧩 Congratulate the bride’s brother],
+[🧩 Write in the guestbook],
+[🧩 Walk the fitness stairs back and forth],
+[You have something in common with your table neighbor],
+[A child is running],
+[🧩 Someone waves to you from another table],
+[Guitar solo],
+[🧩 Propose a toast to your table group],
+[A musician gets excited],
+[The bride gets emotional],
+[🧩 Compliment someone’s purse]
+)

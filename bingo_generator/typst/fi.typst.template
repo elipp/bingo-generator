@@ -1,0 +1,21 @@
+#set page(
+  paper: "a4",
+)
+
+#set text(
+  size: 12pt,
+)
+
+#v(1.5cm)
+
+#align(center)[
+  #text(48pt, [BINGO!])
+]
+
+#align(center)[
+Haali viiden suora vaakaan, pystyyn tai kulmittain ja huuda _BINGO!_
+
+Huom. osaan ruuduista liittyy tehtävä ja osaan havainto.
+]
+
+#v(25pt)
